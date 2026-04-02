@@ -41,5 +41,5 @@ The project begins with exploratory analysis of Stephen Curry’s shot attempts,
 
 ## Files
 
-- `assignment2.ipynb` — main notebook containing the full analysis
-- `assignment2.pdf` — exported version of the completed assignment
+- `basketball_eda.ipynb` — main notebook containing the full analysis
+- `basketball_eda.pdf` — exported version of the completed assignment
